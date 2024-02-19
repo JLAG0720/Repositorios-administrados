@@ -45,5 +45,5 @@ Debe digitar solo numeros enteros
 
 ## Autor
 
-* **Joel Abraham Lechuga Gutierréz** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Joel Abraham Lechuga Gutierréz** - *Initial work* - [PurpleBooth](https://github.com/JLAG0720)
 
